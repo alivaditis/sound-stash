@@ -50,8 +50,7 @@ This is a vinyl collectors website that uses the fetch API to get information fr
 </div>
 
 ## Installation Instructions 
-- Fork [this](https://github.com/mbenfowler/sound-stash) repository. 
-- Clone it to your local machine using the command: `git clone git@github.com:mbenfowler/sound-stash.git`.
+- Clone to your local machine using the command: `git clone git@github.com:alivaditis/sound-stash.git`.
 - Run the command: `cd sound-stash`
 - Run the command: `npm install`
 - Run the command: `npm start`
